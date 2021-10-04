@@ -1,0 +1,17 @@
+h1 {
+  color:black
+  font-size: 3rem;
+  font-weight: 50;
+  text-align: center;
+  margin: 1rem 0 3rem;
+  font-family: 'Hind', sans-serif;
+}
+
+.title {
+  color: #ff69b4;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.body {
+    color: blueviolet;
+}
